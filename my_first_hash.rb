@@ -1,7 +1,5 @@
 def my_hash
   my_hash = {"pink" => "6", "blue" => "2", "orange" => "3"}
-
-
 end
 
 
